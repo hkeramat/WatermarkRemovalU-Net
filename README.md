@@ -1,1 +1,1 @@
-# WatermarkRemovalU-Net
+### WatermarkRemoval Attention U-Net model. Complete framework!
